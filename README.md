@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://random-quotes-yrahmadani.netlify.app/">
+    <a href="https://button-challenge-yrahmadani.netlify.app/">
       Demo
     </a>
     <span> | </span>
