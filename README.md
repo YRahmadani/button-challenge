@@ -68,7 +68,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/YRahmadani/quote-generator
+$ git clone https://github.com/YRahmadani/button-challenge
 
 # Install dependencies
 $ npm install
